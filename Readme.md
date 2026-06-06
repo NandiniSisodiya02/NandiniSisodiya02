@@ -1,3 +1,7 @@
+Hi there 👋
+
+Nice meeting You, Nandini sisodiya this side
+
 # 💫 About Me:
 ​ ➡️ I’m currently working on AROGYA health-tech platforms.<br>​🤝🏻 I’m looking to collaborate on Full-stack web apps and healthcare supply chain automation.<br>​ I’m looking for help with Integrating AI-driven OCR engines to digitize handwritten prescriptions.<br> ​📝 I’m currently learning Real-time inventory mapping and automated refill agents.<br>​ 💭 Ask me about Geolocation discovery, clinical data integration, and medical logistics.<br>​ Fun fact: I am dedicated to building tech that can actually read a doctor's handwriting!
 
